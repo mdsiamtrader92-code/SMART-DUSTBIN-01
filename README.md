@@ -8,7 +8,7 @@ Ultrasonic sensor দিয়ে তৈরি Smart Dustbin যা হাত �
 
 \## 🎥 Demo Video
 
-\[YouTube-এ দেখো](তোমার YouTube link এখানে দাও)
+\[YouTube-এ দেখো](https://youtu.be/Zg8oYmcWu28?si=8uFuHhFd6rCBSC6m)
 
 
 
@@ -27,4 +27,8 @@ Ultrasonic sensor দিয়ে তৈরি Smart Dustbin যা হাত �
 হাত কাছে আসলে sensor detect করে এবং servo motor ঢাকনা খুলে দেয়।
 
 
+
+\## 👨‍💻 Author
+
+Siam
 
